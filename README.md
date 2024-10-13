@@ -51,6 +51,13 @@ flutter run
 
 Below are two screenshots from the project's user interface.
 
-![Doctor List and Medical Shops](Screenshot_2024-10-12_225640.png)
 
-![Find Your Doctor](Screenshot_2024-10-12_230028.png)
+![Screenshot 2024-10-12 225640](https://github.com/user-attachments/assets/f7515868-a410-48b2-83a4-7c052759d931)
+
+
+
+
+![Screenshot 2024-10-12 230028](https://github.com/user-attachments/assets/dda871dd-831f-46de-9d1b-504c1464e427)
+
+
+
